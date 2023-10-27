@@ -4,5 +4,6 @@ This repo contains examples of various code snippets and documentation that I us
 
 ## Files
 
-- [python.md](python.md)
+- [python.md](python.md) : Some Python samples
+- [ansible-role-doc.md](ansible-role-doc.md) : A Markdown from one of my Ansible roles
 
